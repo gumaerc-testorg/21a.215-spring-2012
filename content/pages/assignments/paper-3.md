@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 0d43e4b3-8b9f-20df-b287-c9e92ac9ade5
 title: Third Written Assignment
 uid: d030f4d1-0185-7cf2-8f67-c9d6932739a4
