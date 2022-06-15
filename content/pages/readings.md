@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A list of readings, divided by sessions.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

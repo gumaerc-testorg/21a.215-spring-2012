@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A description of the 1st paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -48,4 +49,4 @@ The description of cultural construction in the Hahn reading is exactly what the
 
 {{< sup "1" >}} "Social production" here is not identical to Hahn's definition.
 
-[Back to Assignments]({{< baseurl >}}/pages/assignments)
+{{% resource_link 0d43e4b3-8b9f-20df-b287-c9e92ac9ade5 "Back to Assignments" %}}

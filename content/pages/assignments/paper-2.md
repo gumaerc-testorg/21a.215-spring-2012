@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A description of the second paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -36,4 +37,4 @@ Providing some history of the change is not required but very welcome.
 
 Optional (and to be clearly differentiated from the analysis): your own opinion of this change, at the end of the paper.
 
-[Back to Assignments]({{< baseurl >}}/pages/assignments)
+{{% resource_link 0d43e4b3-8b9f-20df-b287-c9e92ac9ade5 "Back to Assignments" %}}

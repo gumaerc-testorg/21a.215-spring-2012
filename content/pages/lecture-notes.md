@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lecture notes used by the instructor during the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to the Course (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_01)
+{{% resource_link 2dba6ed1-1486-083a-0e74-c60ac08e55d5 "Introduction to the Course (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction to Basic Issues (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_02)
+{{% resource_link 3f5b3603-eb9c-fa99-a325-8c1b58165e6e "Introduction to Basic Issues (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-["Irrational" Beliefs in Disease Causation and Treatment (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_03)
+{{% resource_link 75bdfe8d-5325-956b-001a-54f08a82eb89 "\"Irrational\" Beliefs in Disease Causation and Treatment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Symbolic Healing and Harming (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_05)
+{{% resource_link 48b48a7d-6cdd-d434-b66f-cd3d435814d1 "Symbolic Healing and Harming (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[The Cultural Construction of Disease (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_06)
+{{% resource_link 9106316d-4a4d-1eeb-4e2a-da8acbe292a1 "The Cultural Construction of Disease (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-[Theoretical Frames (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_07)
+{{% resource_link 25de5fbd-3cb9-79e7-ecfe-dab799ab005e "Theoretical Frames (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ TOPICS
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Meaning, Medicine, and Illness (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_08)
+{{% resource_link 8ec3c505-7584-27c0-2ab2-0f2c1a4436de "Meaning, Medicine, and Illness (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +109,7 @@ The Institution(s) of Medicine I
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[The Institution(s) of Medicine II (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_10)
+{{% resource_link 99708769-df41-4d67-89ee-24a1553d77de "The Institution(s) of Medicine II (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +118,7 @@ The Institution(s) of Medicine I
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[The Institution(s) of Medicine III (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_11)
+{{% resource_link 75a2e6c1-838e-c6a0-7143-5d4eda237e0f "The Institution(s) of Medicine III (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +136,7 @@ The Institution(s) of Medicine IV
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[The Institution(s) of Medicine V (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_13)
+{{% resource_link cd1a294d-476c-76c4-5177-6539fb0f79c6 "The Institution(s) of Medicine V (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +154,7 @@ The Institution(s) of Medicine VI
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[The Institution(s) of Medicine VII (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_15)
+{{% resource_link 2255266a-fa92-2d9d-1818-8c952be9d777 "The Institution(s) of Medicine VII (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +172,7 @@ Health, Disease and Healing in the Larger Social Context I
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[Health, Disease and Healing in the Larger Social Context II (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_17)
+{{% resource_link e0fdfd22-d124-cfa2-291c-0a3f70248764 "Health, Disease and Healing in the Larger Social Context II (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +181,7 @@ Health, Disease and Healing in the Larger Social Context I
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[Health, Disease and Healing in the Larger Social Context III (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_18)
+{{% resource_link a53d430f-3828-c3fd-1443-3364f040b079 "Health, Disease and Healing in the Larger Social Context III (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +190,7 @@ Health, Disease and Healing in the Larger Social Context I
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[Health, Disease and Healing in the Larger Social Context IV (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_19)
+{{% resource_link 1a9ef85f-4567-25e6-82b4-d32936a71f2d "Health, Disease and Healing in the Larger Social Context IV (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +199,7 @@ Health, Disease and Healing in the Larger Social Context I
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Health, Disease and Healing in the Larger Social Context V (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_20)
+{{% resource_link 630c9015-97b9-423b-0b52-d48f7fbb6593 "Health, Disease and Healing in the Larger Social Context V (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -207,7 +208,7 @@ Health, Disease and Healing in the Larger Social Context I
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Stigma, Responsibility, and Blame (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_21)
+{{% resource_link 72633f24-0b8a-50e9-d373-4326f394249e "Stigma, Responsibility, and Blame (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +217,7 @@ Health, Disease and Healing in the Larger Social Context I
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[The Challenge of Chronic Illness (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_22)
+{{% resource_link 8f7d8a9f-7c1d-26b9-a347-b3bdc7bcb18a "The Challenge of Chronic Illness (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +226,7 @@ Health, Disease and Healing in the Larger Social Context I
 23
 {{< tdclose >}}
 {{< tdopen >}}
-[New Reproductive Technologies (PDF)]({{< baseurl >}}/resources/mit21a_215s12_lecture_23)
+{{% resource_link b7034c6c-c437-d46a-0b94-056c288fed4c "New Reproductive Technologies (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

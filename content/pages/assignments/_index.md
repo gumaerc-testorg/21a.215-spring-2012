@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Descriptions of assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,24 +13,24 @@ There are three written assignments, two required rewrites, and one optional rev
 Paper 1 – Due Session 10
 ------------------------
 
-Many authors we're reading in this course deal with the concept of disease as _culturally constructed or socially produced_... [Read more]({{< baseurl >}}/pages/assignments/paper-1)
+Many authors we're reading in this course deal with the concept of disease as _culturally constructed or socially produced_... {{% resource_link 37d0f7ae-4869-7cd3-fafd-60bb204a351d "Read more" %}}
 
 Paper 2 – Due Session 16
 ------------------------
 
-Write a paper on some feature of biomedicine that has recently changed (during the last 30 years) in a significant way... [Read more]({{< baseurl >}}/pages/assignments/paper-2)
+Write a paper on some feature of biomedicine that has recently changed (during the last 30 years) in a significant way... {{% resource_link d501e4d1-bd0a-7f35-6fa9-dfb457c12395 "Read more" %}}
 
 Paper 3 – Due Session 24
 ------------------------
 
-Choose a topic in the field of international health and write about it... [Read more]({{< baseurl >}}/pages/assignments/paper-3)
+Choose a topic in the field of international health and write about it... {{% resource_link d030f4d1-0185-7cf2-8f67-c9d6932739a4 "Read more" %}}
 
 Paper 3 Oral Presentations – Due Sessions 25 & 26
 -------------------------------------------------
 
 Projects will be presented during the final two class sessions.
 
-Here are some pointers on class presentations... [Read more]({{< baseurl >}}/pages/assignments/orl_instr)
+Here are some pointers on class presentations... {{% resource_link 091c6153-1231-b4c7-22e0-4904465597a5 "Read more" %}}
 
 Sweeping Assertions
 -------------------

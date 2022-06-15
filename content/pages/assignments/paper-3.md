@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A description of the third paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -45,4 +46,4 @@ _Examples_:
 
 Any topic concerned with health in the international context is a possibility.
 
-[Back to Assignments]({{< baseurl >}}/pages/assignments)
+{{% resource_link 0d43e4b3-8b9f-20df-b287-c9e92ac9ade5 "Back to Assignments" %}}
