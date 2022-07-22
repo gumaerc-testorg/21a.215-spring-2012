@@ -6,6 +6,7 @@ file: /courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 18 Notes '
 uid: a53d430f-3828-c3fd-1443-3364f040b079
 ---
 This file contains information regarding health, disease and healing in the larger social context III.
-

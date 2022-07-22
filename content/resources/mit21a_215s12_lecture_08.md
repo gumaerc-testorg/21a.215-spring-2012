@@ -5,6 +5,7 @@ file: /courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 8 Notes
 uid: 8ec3c505-7584-27c0-2ab2-0f2c1a4436de
 ---
 This file contains information regarding meaning, medicine, and iIllness.
-

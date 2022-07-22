@@ -5,6 +5,7 @@ file: /courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: New Reproductive Technologies
 uid: b7034c6c-c437-d46a-0b94-056c288fed4c
 ---
 This file contains information regarding new reproductive technologies.
-

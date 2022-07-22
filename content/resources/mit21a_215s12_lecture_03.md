@@ -6,6 +6,7 @@ file: /courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 3 Notes
 uid: 75bdfe8d-5325-956b-001a-54f08a82eb89
 ---
 This file contains information regarding "irrational" beliefs in disease causation and treatment.
-

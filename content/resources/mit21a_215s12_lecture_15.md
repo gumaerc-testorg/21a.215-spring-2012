@@ -6,6 +6,7 @@ file: /courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lecture 15 Notes
 uid: 2255266a-fa92-2d9d-1818-8c952be9d777
 ---
 This file contains information regarding the institution(s) of medicine VII
-

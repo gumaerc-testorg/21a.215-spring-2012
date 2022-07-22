@@ -5,6 +5,7 @@ file: /courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 7 Notes
 uid: 25de5fbd-3cb9-79e7-ecfe-dab799ab005e
 ---
 This file contains information regarding theoretical frames.
-
