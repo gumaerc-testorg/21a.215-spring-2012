@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, criteria for HASS CI subjects, a waning about plagiarism,
+  and the schedule of lecture topics, student presentations, viewings, and assignment
+  due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 59500e59-cfbc-8403-51fc-84691c814e22
 ---
@@ -152,7 +158,7 @@ Theoretical Frames
 Meaning, Medicine, and Illness
 {{< tdclose >}}
 {{< tdopen >}}
-Topics for 1st paper discussed in class
+Topics for 1{{< sup "st" >}} paper discussed in class
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -176,7 +182,7 @@ Watch: _Back from Madness_
 The Institution(s) of Medicine II
 {{< tdclose >}}
 {{< tdopen >}}
-1st paper due
+1{{< sup "st" >}} paper due
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +206,7 @@ The Institution(s) of Medicine III
 The Institution(s) of Medicine IV
 {{< tdclose >}}
 {{< tdopen >}}
-1st paper handed back  
+1{{< sup "st" >}} paper handed back  
 Watch: _Deadly Deception_
 {{< tdclose >}}
 
@@ -225,7 +231,7 @@ Topics for second paper discussed in class
 The Institution(s) of Medicine VI
 {{< tdclose >}}
 {{< tdopen >}}
-Revised 1st paper due  
+Revised 1{{< sup "st" >}} paper due  
 Watch: _The Search for Satan_
 {{< tdclose >}}
 
@@ -250,7 +256,7 @@ The Institution(s) of Medicine VII
 Health, Disease and Healing in the Larger Social Context I
 {{< tdclose >}}
 {{< tdopen >}}
-2nd paper due  
+2{{< sup "nd" >}} paper due  
 Watch: _Simple Courage_
 {{< tdclose >}}
 
@@ -275,7 +281,7 @@ Health, Disease and Healing in the Larger Social Context II
 Health, Disease and Healing in the Larger Social Context III
 {{< tdclose >}}
 {{< tdopen >}}
-2nd paper handed back
+2{{< sup "nd" >}} paper handed back
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,7 +293,7 @@ Health, Disease and Healing in the Larger Social Context III
 Health, Disease and Healing in the Larger Social Context IV
 {{< tdclose >}}
 {{< tdopen >}}
-Topics for 3rd paper discussed in class
+Topics for 3{{< sup "rd" >}} paper discussed in class
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -299,8 +305,8 @@ Topics for 3rd paper discussed in class
 Health, Disease and Healing in the Larger Social Context V
 {{< tdclose >}}
 {{< tdopen >}}
-Revised 2nd paper due  
-Optional: 3rd paper draft due
+Revised 2{{< sup "nd" >}} paper due  
+Optional: 3{{< sup "rd" >}} paper draft due
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -324,7 +330,7 @@ Stigma, Responsibility, and Blame
 The Challenge of Chronic Illness
 {{< tdclose >}}
 {{< tdopen >}}
-Optional: 3rd paper draft handed back
+Optional: 3{{< sup "rd" >}} paper draft handed back
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -348,7 +354,7 @@ Watch: _The Lynchburg Story_
 New Medical Technologies
 {{< tdclose >}}
 {{< tdopen >}}
-3rd paper due
+3{{< sup "rd" >}} paper due
 {{< tdclose >}}
 
 {{< trclose >}}

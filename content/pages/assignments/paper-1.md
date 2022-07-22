@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: A description of the 1st paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 0d43e4b3-8b9f-20df-b287-c9e92ac9ade5
 title: First Written Assignment
 uid: 37d0f7ae-4869-7cd3-fafd-60bb204a351d
@@ -22,7 +27,7 @@ The culture of a society _constructs_ the way societal members think and feel ab
 
 The metaphor of construction suggests that reality is a structure of ideas built by society through social interaction that may include informal as well as formal education. The reality constructed by society **makes sense** of the experience of sickness and healing to its members.
 
-The social production of disease refers to all the ways in which beliefs and patterned relationships **produce** events of sickness1.
+The social production of disease refers to all the ways in which beliefs and patterned relationships **produce** events of sickness{{< sup "1" >}}.
 
 Choose an example that illustrates **either** the cultural construction or social production of a specific disease. The verbs that illustrate the main contrast between cultural construction and social production in the above text have been **bolded**. Social production analyzes disease happenings, events, behavior. Cultural construction analyzes ideas, beliefs, values, representations of and about disease.
 
@@ -42,6 +47,6 @@ A general rule: late papers are automatically marked down unless arrangements ar
 
 The description of cultural construction in the Hahn reading is exactly what the assignment asks for. However, his discussion of social production and mediation has proved too complicated for students to work with. The definition of social production above includes both of Hahn's concepts. It is basically an expanded notion of epidemiology—all of the social factors that produce incidents of disease ("disease events"). You know what epidemiology is—the study of disease rates in populations (and their causes). Social production looks at the social factors, as opposed to the biological/geological/meteorological, etc. ones.
 
-1 "Social production" here is not identical to Hahn's definition.
+{{< sup "1" >}} "Social production" here is not identical to Hahn's definition.
 
-[Back to Assignments]({{< baseurl >}}/pages/assignments)
+{{% resource_link 0d43e4b3-8b9f-20df-b287-c9e92ac9ade5 "Back to Assignments" %}}

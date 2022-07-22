@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: Some advice on giving oral presentations.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 0d43e4b3-8b9f-20df-b287-c9e92ac9ade5
 title: Oral Instructions
 uid: 091c6153-1231-b4c7-22e0-4904465597a5
@@ -20,4 +25,4 @@ Most MIT students have not had much experience giving oral presentations. No mat
 
 You can give an oral presentation, an oral presentation with overhead slides, or a PowerPoint presentation.
 
-[Back to Assignments]({{< baseurl >}}/pages/assignments)
+{{% resource_link 0d43e4b3-8b9f-20df-b287-c9e92ac9ade5 "Back to Assignments" %}}
