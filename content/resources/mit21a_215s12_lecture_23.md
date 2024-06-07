@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding new reproductive technologies.
 file: /courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/b7034c6cc437d46a0b94056c288fed4c_MIT21A_215S12_lecture_23.pdf
+file_size: 129406
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
