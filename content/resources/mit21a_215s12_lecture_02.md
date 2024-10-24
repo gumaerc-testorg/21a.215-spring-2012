@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding introduction to basic issues.
-file: /courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/3f5b3603eb9cfa99a3258c1b58165e6e_MIT21A_215S12_lecture_02.pdf
+file: /ol-ocw-studio-app/courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/3f5b3603eb9cfa99a3258c1b58165e6e_MIT21A_215S12_lecture_02.pdf
 file_size: 154037
 file_type: application/pdf
 learning_resource_types:

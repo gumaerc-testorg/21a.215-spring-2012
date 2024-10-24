@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding health, cisease and healing
   in the larger social context II.
-file: /courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/e0fdfd22d124cfa2291c0a3f70248764_MIT21A_215S12_lecture_17.pdf
+file: /ol-ocw-studio-app/courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/e0fdfd22d124cfa2291c0a3f70248764_MIT21A_215S12_lecture_17.pdf
 file_size: 126823
 file_type: application/pdf
 learning_resource_types:
