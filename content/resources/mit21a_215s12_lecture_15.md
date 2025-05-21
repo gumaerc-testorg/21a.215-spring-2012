@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding the institution(s) of medicine
   VII
-file: /ol-ocw-studio-app/courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/2255266afa922d9d18188c952be9d777_MIT21A_215S12_lecture_15.pdf
+file: /courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/2255266afa922d9d18188c952be9d777_MIT21A_215S12_lecture_15.pdf
 file_size: 117374
 file_type: application/pdf
 learning_resource_types:

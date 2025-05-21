@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding health, disease and healing
   in the larger social context IV.
-file: /ol-ocw-studio-app/courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/1a9ef85f456725e682b4d32936a71f2d_MIT21A_215S12_lecture_19.pdf
+file: /courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/1a9ef85f456725e682b4d32936a71f2d_MIT21A_215S12_lecture_19.pdf
 file_size: 166636
 file_type: application/pdf
 learning_resource_types:
