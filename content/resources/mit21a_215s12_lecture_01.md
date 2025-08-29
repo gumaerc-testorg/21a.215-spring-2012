@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding introduction to the course.
-file: /courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/2dba6ed11486083a0e74c60ac08e55d5_MIT21A_215S12_lecture_01.pdf
+file: /ol-ocw-studio-app/courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/2dba6ed11486083a0e74c60ac08e55d5_MIT21A_215S12_lecture_01.pdf
 file_size: 109689
 file_type: application/pdf
 learning_resource_types:
