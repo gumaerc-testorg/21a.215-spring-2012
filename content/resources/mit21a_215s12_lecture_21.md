@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding stigma, responsibility, and
   blame.
-file: /courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/72633f240b8a50e9d3734326f394249e_MIT21A_215S12_lecture_21.pdf
+file: /ol-ocw-studio-app/courses/21a-215-disease-and-health-culture-society-and-ethics-spring-2012/72633f240b8a50e9d3734326f394249e_MIT21A_215S12_lecture_21.pdf
 file_size: 89402
 file_type: application/pdf
 learning_resource_types:
