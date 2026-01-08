@@ -13,11 +13,11 @@ Required Texts:
 
 \[Fadiman\]= Fadiman, Anne. _The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures._ Farrar, Straus and Giroux, 2012. ISBN: 9780374533403.
 
-\[Farmer\]= Farmer, Paul. _Aids & Accusation: Haiti and the Geography of Blame_. 2nd ed. University of California Press, 2006. ISBN: 9780520248397. \[Preview with {{% resource_link "dcf7eab2-4149-4f04-ad6e-7338d2526685" "Google Books" %}}\]
+\[Farmer\]= Farmer, Paul. _Aids & Accusation: Haiti and the Geography of Blame_. 2nd ed. University of California Press, 2006. ISBN: 9780520248397. \[Preview with [Google Books](http://books.google.com/books?id=9TctWjHHOeEC&printsec=frontcover)\]
 
 \[Luhrmann\]= Luhrmann, T. M. _Of Two Minds: The Growing Disorder in American Psychiatry_. Knopf, 2000. ISBN: 9780679421917.
 
-\[Sharp\]= Sharp, Lesley A. _Strange Harvest: Organ Transplants, Denatured Bodies, and the Transformed Self_. University of California Press, 2006. ISBN: 9780520247864. \[Preview with {{% resource_link "45192ef8-df54-4011-8c53-98ef9e786ccf" "Google Books" %}}\]
+\[Sharp\]= Sharp, Lesley A. _Strange Harvest: Organ Transplants, Denatured Bodies, and the Transformed Self_. University of California Press, 2006. ISBN: 9780520247864. \[Preview with [Google Books](http://books.google.com/books?id=BApgNof0OqkC&pg=PAfrontcover)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -93,13 +93,13 @@ Symbolic Healing and Harming
 {{< tdopen >}}
 
 
-Brown, Michael. "Shamanism and its Discontents." In _Health and Healing in Comparative Perspective_. Edited by Elizabeth Whitaker. Pearson, 2005, pp. 95–108. ISBN: 9780131273832. \[Originally in Brown, Michael Fobes. "{{% resource_link "bd447719-bf51-44b0-bbee-f40b75c7b6f5" "Shamanism and its Discontents" %}}." _Medical Anthropology Quarterly_ 2, no. 2 (1988): 102–20\].
+Brown, Michael. "Shamanism and its Discontents." In _Health and Healing in Comparative Perspective_. Edited by Elizabeth Whitaker. Pearson, 2005, pp. 95–108. ISBN: 9780131273832. \[Originally in Brown, Michael Fobes. "[Shamanism and its Discontents](http://www.jstor.org/stable/649156)." _Medical Anthropology Quarterly_ 2, no. 2 (1988): 102–20\].
 
-Ong, Aihwa. "{{% resource_link "b2183bf2-f0ae-46b0-acf3-396841ff5aa4" "The Production of Possession: Spirits and the Multinational Corporation in Malaysia" %}}." _American Ethnologist_ 15, no. 1 (1987): 28–42.
+Ong, Aihwa. "[The Production of Possession: Spirits and the Multinational Corporation in Malaysia](http://dx.doi.org/10.1525/ae.1988.15.1.02a00030)." _American Ethnologist_ 15, no. 1 (1987): 28–42.
 
 Csordas, Thomas. "Elements of Charismatic Persuasion and Healing." In _A Reader in Medical Anthropology: Theoretical Trajectories, Emergent Realities_. Edited by Byron Good, et al. Wiley-Blackwell, 2010, pp. 91–107. ISBN: 9781405183147.
 
-Miner, Horace. "{{% resource_link "a0d9b488-4310-4903-8673-4f0bc21a0482" "Body Ritual among the Nacirema" %}}." _American Anthropologist_ 58, no. 3 (1956): 503–7.
+Miner, Horace. "[Body Ritual among the Nacirema](https://www.msu.edu/~jdowell/miner.html?pagewanted=al)." _American Anthropologist_ 58, no. 3 (1956): 503–7.
 
 
 {{< tdclose >}}
@@ -115,9 +115,9 @@ The Cultural Construction of Disease
 {{< tdopen >}}
 
 
-Favret-Saada, Jeanne. "{{% resource_link "4f5603f8-dc1d-4888-a314-7ac10c62d4ea" "Unbewitching as Therapy" %}}." _American Ethnologist_ 16, no. 1 (1989): 40–56.
+Favret-Saada, Jeanne. "[Unbewitching as Therapy](http://www.jstor.org/stable/644788)." _American Ethnologist_ 16, no. 1 (1989): 40–56.
 
-Wikan, Unni. "{{% resource_link "e57e85d7-7ef7-457c-8337-2162c943b237" "Managing the Heart to Brighten Face and Soul: Emotions in Balinese Morality and Health Care" %}}." _American Ethnologist_ 16, no. 2 (1989): 294–312.
+Wikan, Unni. "[Managing the Heart to Brighten Face and Soul: Emotions in Balinese Morality and Health Care](http://www.jstor.org/stable/645004)." _American Ethnologist_ 16, no. 2 (1989): 294–312.
 
 Davis, Dona. "The Cultural Constructions of the Premenstrual and Menopause Syndromes." In _Gender and Health: An International Perspective_. Edited by Carolyn Sargent and Caroline Brettell. Pearson, 1995, pp. 57–86. ISBN: 9780130794277.
 
@@ -139,7 +139,7 @@ Hahn, Robert A. "The Role of Society and Culture in Sickness and Healing." In _S
 
 Lock, Margaret, and Nancy Scheper-Hughes. "The Mindful Body: A Prolegomenon to Future Work in Medical Anthropology." In _Understanding and Applying Medical Anthropology_. Edited by Peter Brown. McGraw-Hill Humanities/Social Sciences/Languages, 2009, pp. 208–24. ISBN: 9780073405384.
 
-Katz, Pearl. "{{% resource_link "df544ca2-f7bd-43d7-9909-ac54c548b49c" "Ritual in the Operating Room" %}}." _Ethnology_ 20, no. 4 (1981): 335–50.
+Katz, Pearl. "[Ritual in the Operating Room](http://www.jstor.org/stable/3773355)." _Ethnology_ 20, no. 4 (1981): 335–50.
 
 
 {{< tdclose >}}
@@ -157,7 +157,7 @@ Meaning, Medicine, and Illness
 
 Moerman, Daniel, and Wayne Jonas. "Deconstructing the Placebo Effect and Finding the Meaning Response." In _Health and Healing in Comparative Perspective_. Edited by Elizabeth Whitaker. Pearson, 2006, pp. 340–7. ISBN: 9780131273832.
 
-Obeyesekere, Gananath. "Depression, Buddhism and the Work of Culture in Sri Lanka." In _Culture and Depression: Studies in the Anthropology and Cross-Cultural Psychiatry of Affect and Disorder_. Edited by Arthur Kleinman and Byron J. Good. University of California Press, 1986, pp. 134–52. ISBN: 9780520058835. \[Preview with {{% resource_link "d19d7a1b-9220-4898-8148-9afb3f769977" "Google Books" %}}\]
+Obeyesekere, Gananath. "Depression, Buddhism and the Work of Culture in Sri Lanka." In _Culture and Depression: Studies in the Anthropology and Cross-Cultural Psychiatry of Affect and Disorder_. Edited by Arthur Kleinman and Byron J. Good. University of California Press, 1986, pp. 134–52. ISBN: 9780520058835. \[Preview with [Google Books](http://books.google.com/books?id=qSXap1Us-CAC&pg=PA134#v=onepage)\]
 
 Jackson, Jean. "Pain and Bodies." In _A Companion to the Anthropology of the Body and Embodiment_. Edited by Frances Mascia-Lees. Wiley-Blackwell, 2011, pp. 370–87. ISBN: 9781405189491.
 
@@ -213,7 +213,7 @@ The Institution(s) of Medicine III
 
 \[Luhrmann\]. pp. 84–118.
 
-Gordon, David Paul. "{{% resource_link "0e7e4aa6-3784-4e22-803a-d5fd6cdc8594" "Hospital Slang for Patients: Crocks, Gomers, Gorks, and others" %}}." _Language in Society_ 12, no. 2 (1983): 173-85.
+Gordon, David Paul. "[Hospital Slang for Patients: Crocks, Gomers, Gorks, and others](http://www.jstor.org/stable/4167396)." _Language in Society_ 12, no. 2 (1983): 173-85.
 
 
 {{< tdclose >}}
@@ -271,7 +271,7 @@ The Institution(s) of Medicine VII
 {{< tdopen >}}
 
 
-Rosenhan, David L. et al. "{{% resource_link "40500c78-ddaf-4528-9cfc-3567c60cb995" "On Being Sane in Insane Places" %}}." _Science_ 179 (1973): 250-8.
+Rosenhan, David L. et al. "[On Being Sane in Insane Places](http://psychrights.org/articles/rosenham.htm)." _Science_ 179 (1973): 250-8.
 
 Rhodes, Lorna. "Dreaming of Psychiatric Citizenship: A Case Study of Supermax Confinement." In _A Reader in Medical Anthropology: Theoretical Trajectories, Emergent Realities_. Edited by Byron Good, et al. Wiley-Blackwell, 2010, pp. 181–98. ISBN: 9781405183147.
 
@@ -347,7 +347,7 @@ Health, Disease and Healing in the Larger Social Context V
 {{< tdopen >}}
 
 
-Scheper-Hughes, Nancy. "Min(d)ing the Body: On the Trail of Organ-Stealing Rumors." In _Exotic No More: Anthropology on the Front Lines_. Edited by Jeremy MacClancy. The University of Chicago Press, 2002, pp. 33–63. ISBN: 9780226500133. \[Preview with {{% resource_link "ed6449a5-5306-423c-91b0-afbf45c59884" "Google Books" %}}\]
+Scheper-Hughes, Nancy. "Min(d)ing the Body: On the Trail of Organ-Stealing Rumors." In _Exotic No More: Anthropology on the Front Lines_. Edited by Jeremy MacClancy. The University of Chicago Press, 2002, pp. 33–63. ISBN: 9780226500133. \[Preview with [Google Books](http://books.google.com/books?id=uH11vDpqUu8C&pg=PA33#v=onepage)\]
 
 Sanal, Aslihan. "Robin Hood of Techno-Turkey, or Organ Trafficking in the State of Ethical Beings." In _A Reader in Medical Anthropology: Theoretical Trajectories, Emergent Realities_. Edited by Byron Good, et al. Wiley-Blackwell, 2010, pp. 300–18. ISBN: 9781405183147.
 
@@ -367,9 +367,9 @@ Stigma, Responsibility, and Blame
 {{< tdopen >}}
 
 
-Waxler, Nancy. "Learning to be a Leper: A case study in the Social Construction of Illness." In _Understanding and Applying Medical Anthropology_. Edited by Peter Brown and Ron Barrett. McGraw-Hill Humanities, 2009, pp. 147–57. ISBN: 9780073405384. \[Originally in Mishler, et al. _Social Contexts of Health, Illness, and Patient Care_. CUP Archive, 1981, pp. 169–92. ISBN: 9780521280341. \[Preview with {{% resource_link "903a225b-00c4-4869-abe1-0057c724115a" "Google Books" %}}\].
+Waxler, Nancy. "Learning to be a Leper: A case study in the Social Construction of Illness." In _Understanding and Applying Medical Anthropology_. Edited by Peter Brown and Ron Barrett. McGraw-Hill Humanities, 2009, pp. 147–57. ISBN: 9780073405384. \[Originally in Mishler, et al. _Social Contexts of Health, Illness, and Patient Care_. CUP Archive, 1981, pp. 169–92. ISBN: 9780521280341. \[Preview with [Google Books](http://books.google.com/books?id=CBk7AAAAIAAJ&pg=PA169#v=onepage)\].
 
-Farquhar, Judith. "{{% resource_link "0f5b50e9-2d07-4155-b128-658fa8bc61b9" "Market Magic: Getting Rich and Getting Personal in Medicine after Mao" %}}." _American Ethnologist_ 23, no. 2, (1996): 239–57.
+Farquhar, Judith. "[Market Magic: Getting Rich and Getting Personal in Medicine after Mao](http://www.jstor.org/stable/646542)." _American Ethnologist_ 23, no. 2, (1996): 239–57.
 
 Landecker, Hannah. "Immortality, in Vitro: A History of the HeLa Cell Line." In _A Reader in Medical Anthropology: Theoretical Trajectories, Emergent Realities_. Edited by Byron Good, et al. Wiley-Blackwell, 2010, pp. 353–66. ISBN: 9781405183147.
 
@@ -407,9 +407,9 @@ New Reproductive Technologies
 
 Inhorn, Marcia. "Quest for Conception: Gender, Infertility, and Egyptian Medical Traditions." In _A Reader in Medical Anthropology: Theoretical Trajectories, Emergent Realities_. Edited by Byron Good, et al. Wiley-Blackwell, 2010, pp. 319–26. ISBN: 9781405183147.
 
-Rapp, Rayna. "Constructing Amniocentesis: Maternal and Medical Discourses." In _Situated Lives: Gender and Culture in Everyday Life_. Edited by Louise Lamphere, Helena Ragone, and Patricia Zavella. Routledge, 1997, pp. 128–41. ISBN: 9780415918077. \[Preview with {{% resource_link "1f27b507-c46a-4e18-8605-765575fb4982" "Google Books" %}}\].
+Rapp, Rayna. "Constructing Amniocentesis: Maternal and Medical Discourses." In _Situated Lives: Gender and Culture in Everyday Life_. Edited by Louise Lamphere, Helena Ragone, and Patricia Zavella. Routledge, 1997, pp. 128–41. ISBN: 9780415918077. \[Preview with [Google Books](http://books.google.com/books?id=TdjaeP8zVjwC&pg=PA128#v=onepage)\].
 
-Cussins, Charis. "Ontological Choreography: Agency for Women Patients in an Infertility Clinic." In _Differences in Medicine: Unraveling Practices, Techniques, and Bodies_. Edited by Marc Berg and Annemarie Mol. Duke University Press Books, 1998, pp. 166–201. ISBN: 9780822321743. \[Preview with {{% resource_link "d9c15f9c-b7a0-4d70-992b-7ffa3cb3f3b3" "Google Books" %}}\]
+Cussins, Charis. "Ontological Choreography: Agency for Women Patients in an Infertility Clinic." In _Differences in Medicine: Unraveling Practices, Techniques, and Bodies_. Edited by Marc Berg and Annemarie Mol. Duke University Press Books, 1998, pp. 166–201. ISBN: 9780822321743. \[Preview with [Google Books](http://books.google.com/books?id=VPrhi_Jw6VMC&pg=PA166#v=onepage)\]
 
 
 {{< tdclose >}}
